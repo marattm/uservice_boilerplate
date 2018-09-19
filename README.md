@@ -1,2 +1,2 @@
-# uservice_boilerplate
-Microservice boilerplate.
+# uservices_boilerplate
+uServices project boilerplate.

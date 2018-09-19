@@ -1,0 +1,19 @@
+
+## personal space
+.vagrant
+Vagrantfile
+settings.*
+.DS_store
+.vscode
+
+## virtualenv
+venv
+
+## python
+__pycache__
+
+## docker
+.dockerignore
+
+## code coverage
+htmlcov
